@@ -8,7 +8,7 @@ API_HASH = os.environ.get("API_HASH", "")
 OWNER = int(os.environ.get("OWNER", 0))  # Provide a default value of 0
 BOT_USERNAME = os.environ.get('BOT_USERNAME', "")
 
-FORCE_SUBS = os.environ.get("FORCE_SUBS", "HxBots")
+FORCE_SUBS = os.environ.get("FORCE_SUBS", "+1XCWf7BcYjA5N2Fk")
 LOG_CHANNEL = int(os.environ.get('LOG_CHANNEL', 0))  # Provide a default value of 0
 
 DB_URL = os.environ.get("DB_URL", "")

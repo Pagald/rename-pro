@@ -1,13 +1,3 @@
-<img src="https://graph.org/file/f4261daff37b2331905ca.jpg" alt="logo" target="/blank">
-
-<h1 align="center">
- <b><a href="https://t.me/hx_renamebot" target="/blank">Rename-Pro</a></>
-</h1>
-
-<p align="center">🤍 Thanks for Being Here 🤍</p>
-
-
-
 
 ### 🔥 ALL VARIABLES
 
@@ -32,33 +22,6 @@
 * `BOT_USERNAME` - Add bot username `without @`
 
 * `LOG_CHANNEL` - A channel to log the activities of bot. Make sure bot is an admin in the channel.
-
-
-
-
-### 📶 DEPLOYEMENT SUPPORT
-
-<details><summary>Deploy To Koyeb</summary>
-<p>
-<br>
-<a href="https://app.koyeb.com/deploy?type=git&repository=github.com/oVo-HxBots/RENAME-PRO&branch=main&name=rename-pro&env[API_HASH]=1&env[API_ID]=1&env[BOT_TOKEN]=1&env[BOT_USERNAME]=1&env[OWNER]=1&env[DB_URL]=1&env[DB_NAME]=rename-pro&env[FORCE_SUBS]=1&env[LOG_CHANNEL]=-100123345&run_command=python3%20bot.py">
-  <img src="https://www.koyeb.com/static/images/deploy/button.svg" alt="Deploy">
-</a>
-</p>
-</details>
-
-<details><summary>Deploy To Heroku</summary>
-<p>
-<br>
-<a href="https://heroku.com/deploy?template=https://github.com/oVo-HxBots/RENAME-PRO">
-  <img src="https://www.herokucdn.com/deploy/button.svg" alt="Deploy">
-</a>
-</p>
-</details>
-
-
-
-
 
 ### 🥰 FEATURES
  - Renames very fast .
@@ -119,14 +82,3 @@ addpremium - To Upgrade user plan to BASIC - STANDARD - PRO  [FOR ADMINS USE ONL
 
 restart - Use This Command To Cancel All Process And Restart The Bot [FOR ADMINS USE ONLY].
 ```
-
-
-
-#### 🧡 Respecting... 🧡
-- [🔥 JishuDeveloper](https://github.com/JishuDeveloper) 
-- [🔥 lntechnical](https://github.com/lntechnical2)
-
-### 🤩 Bots Channel
-<a href="https://t.me/HxBots">
-   <p>❣️ HxBots🔥</p>
-</a>

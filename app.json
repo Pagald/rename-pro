@@ -5,11 +5,11 @@
 
     "description": "4GB Rename Bot With Premium Support",
 
-    "keywords": ["Premium Renamer Bot ", "4GB File", "telegram", "HxBots" ],
+    "keywords": ["Premium Renamer Bot ", "4GB File", "telegram", "LazyDeveloperr" ],
 
-    "repository": "https://github.com/oVo-HxBots/RENAME-PRO",
+    "repository": "https://github.com/lazyDeveloper/LazyPrincess",
 
-    "success_url": "https://t.me/HxBots",
+    "success_url": "https://t.me/LazyDeveloper",
 
     "env": {
 
@@ -17,7 +17,7 @@
 
             "description" : "Channel or Group user Name With @",
 
-            "value" : "HxBots",
+            "value" : "lazydeveloper",
 
             "required" : false
 
@@ -109,7 +109,7 @@
 
             "description" : "Start up pic of your bot. Get from telegraph_Bot",
 
-            "value" : "https://graph.org/file/cca849a2f63053fa3f622.jpg",
+            "value" : "",
 
             "required" : false
 
