@@ -3,7 +3,7 @@ from os import environ
 
 # Retrieving environment variables with correct syntax
 BOT_TOKEN = os.environ.get("BOT_TOKEN", "")
-API_ID = int(os.environ.get("API_ID", 17319714))  # Provide a default value of 0
+API_ID = int(os.environ.get("API_ID", 0))  # Provide a default value of 0
 API_HASH = os.environ.get("API_HASH", "")
 OWNER = int(os.environ.get("OWNER", 0))  # Provide a default value of 0
 BOT_USERNAME = os.environ.get('BOT_USERNAME', "")
